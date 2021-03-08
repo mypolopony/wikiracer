@@ -1,7 +1,7 @@
 # Let's Wikirace!
 **Description**    : An simple implementation of shortest path discovery  
 **Author**         : Selwyn-Lloyd McPherson (selwyn.mcpherson@gmail.com)     
-**Python Version<** : 3.5.0  
+**Python Version** : 3.5.0  
 
 ## Contents
 0. [Background](#background)
